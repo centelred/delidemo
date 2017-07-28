@@ -18,6 +18,21 @@ h6 {
 
 .title {
 	font-family: 'Rock Salt', cursive;
+	background-color:darkgreen;
+	opacity:.85;
+	padding:.5em;
+	border-radius:.05em;
+}
+
+.cater {
+	background-color:lightgrey;
+	padding:.35em;
+	border-radius:.05em;
+	font-weight:bold;
+}
+
+.call {
+	font-style:italic;
 }
 
 .w3-top,
