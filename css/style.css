@@ -39,6 +39,12 @@ h6 {
 	font-weight:bold;
 }
 
+.price {
+	font-size:1.25em;
+	color:#fff;
+	opacity:.45;
+}
+
 .charm {
 	font-style:italic;
 }
@@ -49,11 +55,6 @@ h6 {
 
 .call {
 	font-style:italic;
-}
-
-.w3-top,
-.w3-bar {
-    background-color: #9FEA79;
 }
 
 .w3-row {
