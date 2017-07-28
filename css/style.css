@@ -24,11 +24,21 @@ h6 {
 	border-radius:.05em;
 }
 
+.line {
+	margin:.63em;
+	line-height:3.25em;
+}
+
 .cater {
 	background-color:lightgrey;
 	padding:.35em;
 	border-radius:.05em;
 	font-weight:bold;
+}
+
+.charm {
+	opacity:.75;
+	font-style:italic;
 }
 
 .call {
@@ -94,7 +104,6 @@ video {
 progress {
     vertical-align: baseline
 }
-
 audio:not([controls]) {
     display: none;
     height: 0
