@@ -1,5 +1,5 @@
 ﻿body {
-    font-family: "Times New Roman", Georgia, Serif;
+    font-family: 'Overlock', cursive;
     background-color:#FFFFD4;
 }
 
@@ -8,14 +8,25 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-    font-family: "Playfair Display";
-    letter-spacing: 5px;
+h6 {    
+    letter-spacing: 2px;
+}
+
+.blurb {
+	font-family: 'Overlock', cursive;
+}
+
+.title {
+	font-family: 'Rock Salt', cursive;
 }
 
 .w3-top,
 .w3-bar {
     background-color: #9FEA79;
+}
+
+.w3-row {
+	font-family: 'Overlock', cursive;
 }
 
 <--->
@@ -140,7 +151,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
+   font-family: 'Overlock', cursive;
     font-size: 1em
 }
 
@@ -247,7 +258,7 @@ textarea {
 
 html,
 body {
-    font-family: Verdana, sans-serif;
+    font-family: 'Overlock', cursive;
     font-size: 15px;
     line-height: 1.5
 }
@@ -258,6 +269,7 @@ html {
 
 h1 {
     font-size: 36px
+
 }
 
 h2 {
@@ -281,8 +293,9 @@ h6 {
 }
 
 .w3-serif {
-    font-family: serif
+    font-family: 'Overlock', cursive;
 }
+
 
 h1,
 h2,
@@ -290,7 +303,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Segoe UI", Arial, sans-serif;
+    font-family: 'Overlock', cursive; 
     font-weight: 400;
     margin: 10px 0
 }
@@ -599,7 +612,8 @@ a {
     width: auto;
     border: none;
     outline: none;
-    display: block
+    display: block;
+    font-family: 'Rock Salt', cursive;
 }
 
 .w3-bar .w3-dropdown-hover,
@@ -1055,7 +1069,8 @@ a {
 
 .w3-container,
 .w3-panel {
-    padding: 0.01em 16px
+    padding: 0.01em 16px;
+
 }
 
 .w3-panel {
@@ -1065,7 +1080,7 @@ a {
 
 .w3-code,
 .w3-codespan {
-    font-family: Consolas, "courier new";
+    font-family: 'Overlock', cursive;
     font-size: 16px
 }
 
